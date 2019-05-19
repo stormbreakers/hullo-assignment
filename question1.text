@@ -1,0 +1,3 @@
+composition - Ascoltatore function is use to initialize the pubsub service in google cloud by passing google cloud config,
+an then extended using prototype where the pubsub instance is used in its prototype function to call appropriate services as it's function is exported.
+use case in project - it is use to initialize the pubsub service and the method subscribe, unsubscribe, publish and close is accessible to perform action
